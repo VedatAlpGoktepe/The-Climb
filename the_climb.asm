@@ -31,6 +31,7 @@
 #
 # Are you OK with us sharing the video with people outside course staff?
 # - yes, and please share this project github link as well!
+# - https://github.com/VedatAlpGoktepe/The-Climb
 #
 # Any additional information that the TA needs to know:
 # - To move the character left/right you only need to press a/d once and the player
